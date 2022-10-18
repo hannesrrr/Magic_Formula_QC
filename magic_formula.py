@@ -8,6 +8,7 @@ Hannes Rohregger
 Guillermo Huguet Serra 
 Jarrett Oh Jia Cheng
 
+To be run on quantconnect.com engine
 2022/10/18
 '''
 
